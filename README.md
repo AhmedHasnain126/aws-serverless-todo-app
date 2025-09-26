@@ -1,7 +1,6 @@
 # AWS Serverless To-Do Application
 
 > A simple, fully serverless to-do list application built on Amazon Web Services. This project demonstrates a basic CRUD (Create, Read, Delete) application using a modern, event-driven architecture.
-[**Live Demo**](http://your-bucket-name.s3-website-us-east-1.amazonaws.com)
 
 
 
